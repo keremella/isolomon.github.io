@@ -1,20 +1,30 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Welcome to my Portfolio
+subtitle: Israel Solomon
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Intro
+  text: >-
+    I'm currently in my 3rd year of the ITID program. This are some of my skills
+    and works that i have done in the past  years.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Skill Highlights
+  text: "•\tDesigned website logos and pages using Wire frame software and photoshop.\n•\tProgrammed dynamic websites using JavaScript, HTML and CSS.\n•\tWorked on company’s website using WordPress and GoDaddy server.\n•\tConstructed quires in database using MS Access and MySQL.\n•\tImplemented agile and SCRUM development procedures.\n•\tDeveloped programs using Visual Studios, WebStorm and other scripting languages.\n•\tWorked as an IT Admin professional by administrating tickets and solving tech problems\n•\tDeveloped UI interface prototype using JUSTINMIND.\n•\tCreated project plan using MS office 365.\n"
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/website.png
+    text: >-
+      This is a website project that i did on my first year. It implemented
+      basic HTML,CSS, and some JavaScript. 
+  - image: /img/booking-console-app.png
+    text: >-
+      This is a C# based console app that i did during my first year. It enables
+      the booking of hotel rooms and cancellations .
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
 
